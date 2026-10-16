@@ -3,8 +3,8 @@
 โครงการทดสอบระบบอัตโนมัติ (Automated Testing) สำหรับเว็บไซต์ [SauceDemo](https://www.saucedemo.com/) โดยใช้เครื่องมือ Playwright Test ร่วมกับภาษา TypeScript ครอบคลุมการทดสอบ 3 ระดับ ได้แก่ Unit/UI Component Testing, Integration Testing (Top-Down และ Bottom-Up) และ System Testing (End-to-End)
 
 ## รายชื่อสมาชิก / ผู้จัดทำ
-- **รหัสนักศึกษา:** [ใสบรหัสนักศึกษาของคุณที่นี่ เช่น 6712345678]
-- **ชื่อ - นามสกุล:** [ใส่ชื่อ-นามสกุลของคุณที่นี่]
+- **รหัสนักศึกษา:** [6804101335]
+- **ชื่อ - นามสกุล:** [thanachanok dejbandit]
 - **สาขาวิชา:** วิทยาการคอมพิวเตอร์ ชั้นปีที่ 2 มหาวิทยาลัยแม่โจ้
 
 ---
